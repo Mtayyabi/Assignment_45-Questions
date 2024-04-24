@@ -1,0 +1,1 @@
+let mobile = ["samsung", "iphone", "motorolla", "xiomi", "google", "tecno", "infinix", "spark"]
